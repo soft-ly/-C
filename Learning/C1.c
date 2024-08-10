@@ -1,6 +1,7 @@
 //Syntax: #include <stdio.h> int main() {return 0;}
-#include <stdio.h>
-int main() {
+#include <stdio.h> //#include: include basic libraries (stdio.h: standard input & output)
+int /**/ main() //define a function named 'main' that receives no argument values
+    { 
     //Output & Comments
     /*This is how you make a 
     multiline comment!*/
@@ -11,11 +12,5 @@ int main() {
     int MyNum1;
     MyNum1 = 1;
 
-
-    printf("%d", MyNum1);
-
     return 0;
-
-
-
-}
+    }
