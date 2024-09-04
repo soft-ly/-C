@@ -12,5 +12,4 @@ int main() {
         sum-=48;
     }
     printf("%d", sum);
-    
 }

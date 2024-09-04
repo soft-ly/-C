@@ -12,5 +12,13 @@ int /**/ main() //define a function named 'main' that receives no argument value
     int MyNum1;
     MyNum1 = 1;
 
+    /*
+    EOF: End of File
+    '\b': backslash
+    #define 'name' 'replacement': define a number
+    getchar
+    putchar 
+    */
+
     return 0;
     }
