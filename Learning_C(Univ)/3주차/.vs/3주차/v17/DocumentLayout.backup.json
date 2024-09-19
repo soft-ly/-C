@@ -1,10 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\3\uC8FC\uCC28\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\Learning-C\\Learning_C(Univ)\\3\uC8FC\uCC28\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFC5107A-A42E-4667-A479-47FCEF9B8E6D}|3\uC8FC\uCC28.vcxproj|C:\\Users\\user\\Desktop\\3\uC8FC\uCC28\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CFC5107A-A42E-4667-A479-47FCEF9B8E6D}|3\uC8FC\uCC28.vcxproj|solutionrelative:1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CFC5107A-A42E-4667-A479-47FCEF9B8E6D}|3\uC8FC\uCC28.vcxproj|C:\\Users\\user\\Documents\\GitHub\\Learning-C\\Learning_C(Univ)\\3\uC8FC\uCC28\\5.\uACFC\uC81C5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFC5107A-A42E-4667-A479-47FCEF9B8E6D}|3\uC8FC\uCC28.vcxproj|solutionrelative:5.\uACFC\uC81C5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC5107A-A42E-4667-A479-47FCEF9B8E6D}|3\uC8FC\uCC28.vcxproj|C:\\Users\\user\\Documents\\GitHub\\Learning-C\\Learning_C(Univ)\\3\uC8FC\uCC28\\4.\uACFC\uC81C4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFC5107A-A42E-4667-A479-47FCEF9B8E6D}|3\uC8FC\uCC28.vcxproj|solutionrelative:4.\uACFC\uC81C4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC5107A-A42E-4667-A479-47FCEF9B8E6D}|3\uC8FC\uCC28.vcxproj|C:\\Users\\user\\Documents\\GitHub\\Learning-C\\Learning_C(Univ)\\3\uC8FC\uCC28\\\uACFC\uC81C1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFC5107A-A42E-4667-A479-47FCEF9B8E6D}|3\uC8FC\uCC28.vcxproj|solutionrelative:\uACFC\uC81C1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC5107A-A42E-4667-A479-47FCEF9B8E6D}|3\uC8FC\uCC28.vcxproj|C:\\Users\\user\\Documents\\GitHub\\Learning-C\\Learning_C(Univ)\\3\uC8FC\uCC28\\\uACFC\uC81C3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFC5107A-A42E-4667-A479-47FCEF9B8E6D}|3\uC8FC\uCC28.vcxproj|solutionrelative:\uACFC\uC81C3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC5107A-A42E-4667-A479-47FCEF9B8E6D}|3\uC8FC\uCC28.vcxproj|C:\\Users\\user\\Documents\\GitHub\\Learning-C\\Learning_C(Univ)\\3\uC8FC\uCC28\\\uACFC\uC81C2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFC5107A-A42E-4667-A479-47FCEF9B8E6D}|3\uC8FC\uCC28.vcxproj|solutionrelative:\uACFC\uC81C2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC5107A-A42E-4667-A479-47FCEF9B8E6D}|3\uC8FC\uCC28.vcxproj|C:\\Users\\user\\Documents\\GitHub\\Learning-C\\Learning_C(Univ)\\3\uC8FC\uCC28\\1.\uC608\uC81C5-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFC5107A-A42E-4667-A479-47FCEF9B8E6D}|3\uC8FC\uCC28.vcxproj|solutionrelative:1.\uC608\uC81C5-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC5107A-A42E-4667-A479-47FCEF9B8E6D}|3\uC8FC\uCC28.vcxproj|C:\\Users\\user\\Documents\\GitHub\\Learning-C\\Learning_C(Univ)\\3\uC8FC\uCC28\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFC5107A-A42E-4667-A479-47FCEF9B8E6D}|3\uC8FC\uCC28.vcxproj|solutionrelative:2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,13 +43,91 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "1.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\3\uC8FC\uCC28\\1.cpp",
-              "RelativeDocumentMoniker": "1.cpp",
-              "ToolTip": "C:\\Users\\user\\Desktop\\3\uC8FC\uCC28\\1.cpp",
-              "RelativeToolTip": "1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "Title": "5.\uACFC\uC81C5.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Learning-C\\Learning_C(Univ)\\3\uC8FC\uCC28\\5.\uACFC\uC81C5.c",
+              "RelativeDocumentMoniker": "5.\uACFC\uC81C5.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Learning-C\\Learning_C(Univ)\\3\uC8FC\uCC28\\5.\uACFC\uC81C5.c",
+              "RelativeToolTip": "5.\uACFC\uC81C5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-19T07:07:15.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\uACFC\uC81C3.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Learning-C\\Learning_C(Univ)\\3\uC8FC\uCC28\\\uACFC\uC81C3.c",
+              "RelativeDocumentMoniker": "\uACFC\uC81C3.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Learning-C\\Learning_C(Univ)\\3\uC8FC\uCC28\\\uACFC\uC81C3.c",
+              "RelativeToolTip": "\uACFC\uC81C3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-19T07:36:28.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\uACFC\uC81C2.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Learning-C\\Learning_C(Univ)\\3\uC8FC\uCC28\\\uACFC\uC81C2.c",
+              "RelativeDocumentMoniker": "\uACFC\uC81C2.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Learning-C\\Learning_C(Univ)\\3\uC8FC\uCC28\\\uACFC\uC81C2.c",
+              "RelativeToolTip": "\uACFC\uC81C2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-19T07:13:16.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\uACFC\uC81C1.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Learning-C\\Learning_C(Univ)\\3\uC8FC\uCC28\\\uACFC\uC81C1.c",
+              "RelativeDocumentMoniker": "\uACFC\uC81C1.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Learning-C\\Learning_C(Univ)\\3\uC8FC\uCC28\\\uACFC\uC81C1.c",
+              "RelativeToolTip": "\uACFC\uC81C1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-19T07:01:05.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "4.\uACFC\uC81C4.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Learning-C\\Learning_C(Univ)\\3\uC8FC\uCC28\\4.\uACFC\uC81C4.c",
+              "RelativeDocumentMoniker": "4.\uACFC\uC81C4.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Learning-C\\Learning_C(Univ)\\3\uC8FC\uCC28\\4.\uACFC\uC81C4.c",
+              "RelativeToolTip": "4.\uACFC\uC81C4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-19T06:14:31.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "2.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Learning-C\\Learning_C(Univ)\\3\uC8FC\uCC28\\2.c",
+              "RelativeDocumentMoniker": "2.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Learning-C\\Learning_C(Univ)\\3\uC8FC\uCC28\\2.c",
+              "RelativeToolTip": "2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-19T05:55:27.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "1.\uC608\uC81C5-4.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Learning-C\\Learning_C(Univ)\\3\uC8FC\uCC28\\1.\uC608\uC81C5-4.c",
+              "RelativeDocumentMoniker": "1.\uC608\uC81C5-4.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Learning-C\\Learning_C(Univ)\\3\uC8FC\uCC28\\1.\uC608\uC81C5-4.c",
+              "RelativeToolTip": "1.\uC608\uC81C5-4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-19T05:12:48.15Z",
               "EditorCaption": ""
             }

@@ -15,7 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1.cpp">
+    <ClCompile Include="1.예제5-4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="4.과제4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="5.과제5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="과제1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="과제2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="과제3.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
