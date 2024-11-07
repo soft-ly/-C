@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\4\uC8FC\uCC28\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A321718-E4B5-4B60-AF0B-5490A2F98E22}|4\uC8FC\uCC28.vcxproj|C:\\Users\\user\\source\\repos\\4\uC8FC\uCC28\\6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A321718-E4B5-4B60-AF0B-5490A2F98E22}|4\uC8FC\uCC28.vcxproj|solutionrelative:6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A321718-E4B5-4B60-AF0B-5490A2F98E22}|4\uC8FC\uCC28.vcxproj|C:\\Users\\user\\source\\repos\\4\uC8FC\uCC28\\5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A321718-E4B5-4B60-AF0B-5490A2F98E22}|4\uC8FC\uCC28.vcxproj|solutionrelative:5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A321718-E4B5-4B60-AF0B-5490A2F98E22}|4\uC8FC\uCC28.vcxproj|C:\\Users\\user\\source\\repos\\4\uC8FC\uCC28\\4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A321718-E4B5-4B60-AF0B-5490A2F98E22}|4\uC8FC\uCC28.vcxproj|solutionrelative:4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A321718-E4B5-4B60-AF0B-5490A2F98E22}|4\uC8FC\uCC28.vcxproj|C:\\Users\\user\\source\\repos\\4\uC8FC\uCC28\\3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A321718-E4B5-4B60-AF0B-5490A2F98E22}|4\uC8FC\uCC28.vcxproj|solutionrelative:3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A321718-E4B5-4B60-AF0B-5490A2F98E22}|4\uC8FC\uCC28.vcxproj|C:\\Users\\user\\source\\repos\\4\uC8FC\uCC28\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A321718-E4B5-4B60-AF0B-5490A2F98E22}|4\uC8FC\uCC28.vcxproj|solutionrelative:2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A321718-E4B5-4B60-AF0B-5490A2F98E22}|4\uC8FC\uCC28.vcxproj|C:\\Users\\user\\source\\repos\\4\uC8FC\uCC28\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A321718-E4B5-4B60-AF0B-5490A2F98E22}|4\uC8FC\uCC28.vcxproj|solutionrelative:1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "4.c",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\4\uC8FC\uCC28\\4.c",
+              "RelativeDocumentMoniker": "4.c",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\4\uC8FC\uCC28\\4.c",
+              "RelativeToolTip": "4.c",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwDgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-26T08:29:32.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "1.c",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\4\uC8FC\uCC28\\1.c",
+              "RelativeDocumentMoniker": "1.c",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\4\uC8FC\uCC28\\1.c",
+              "RelativeToolTip": "1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-26T08:20:30.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "6.c",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\4\uC8FC\uCC28\\6.c",
+              "RelativeDocumentMoniker": "6.c",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\4\uC8FC\uCC28\\6.c",
+              "RelativeToolTip": "6.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-26T07:59:59.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "5.c",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\4\uC8FC\uCC28\\5.c",
+              "RelativeDocumentMoniker": "5.c",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\4\uC8FC\uCC28\\5.c",
+              "RelativeToolTip": "5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-26T07:42:37.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "3.c",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\4\uC8FC\uCC28\\3.c",
+              "RelativeDocumentMoniker": "3.c",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\4\uC8FC\uCC28\\3.c",
+              "RelativeToolTip": "3.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwCYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-26T07:41:38.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "2.c",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\4\uC8FC\uCC28\\2.c",
+              "RelativeDocumentMoniker": "2.c",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\4\uC8FC\uCC28\\2.c",
+              "RelativeToolTip": "2.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwCwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-26T07:04:49.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
