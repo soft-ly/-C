@@ -1,11 +1,11 @@
-//À±³âÆÇº° Á¶°Ç
+//ìœ¤ë…„íŒë³„ ì¡°ê±´
 /*
 #include <stdio.h>
 
 int main() {
 	int year;
 
-	printf("¿¬µµ ÀÔ·Â: ____ /b/b/b/b/b");
+	printf("ì—°ë„ ì…ë ¥: ____ /b/b/b/b/b");
 	scanf_s("%d", &year);
 
 }*/

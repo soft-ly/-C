@@ -2,11 +2,11 @@
 int main() {
 	char input_alpha;
 
-	printf("¾ËÆÄºª ÀÔ·Â: ");
+	printf("ì•ŒíŒŒë²³ ì…ë ¥: ");
 	scanf_s("%c", input_alpha);
 
-	printf("ÀÔ·ÂÇÑ ¾ËÆÄºª Ãâ·Â: %c\n", input_alpha);
-	printf("ÀÔ·ÂÇÑ ¾ËÆÄºªÀÇ ¾Æ½ºÅ°ÄÚµå °ª : %d \n", input_alpha);
+	printf("ì…ë ¥í•œ ì•ŒíŒŒë²³ ì¶œë ¥: %c\n", input_alpha);
+	printf("ì…ë ¥í•œ ì•ŒíŒŒë²³ì˜ ì•„ìŠ¤í‚¤ì½”ë“œ ê°’ : %d \n", input_alpha);
 	return 0;
 
  }

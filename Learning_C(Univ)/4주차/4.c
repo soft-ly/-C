@@ -5,7 +5,7 @@
 //	char place;
 //	const float defaultfee = 0.05;
 //
-//	printf("Á¦Ç°ÀÇ °¡°İ°ú Áö¿ªÀ» ÀÔ·Â : ");
+//	printf("ì œí’ˆì˜ ê°€ê²©ê³¼ ì§€ì—­ì„ ì…ë ¥ : ");
 //	scanf_s("%d %c", &price, &place, sizeof(place));
 //	
 //	float dftdeliveryfee = price * defaultfee;
@@ -14,42 +14,42 @@
 //	switch (place) {
 //	case'A':
 //		fee = dftdeliveryfee + 3000;
-//		printf("Á¦Ç° °¡°İ: %d \nÀå¼Ò: %c \nÀå¼Ò ¹è¼Ûºñ: (±âº» ¹è¼Ûºñ + 3000¿ø) %f\nÃÑ °¡°İ: %d + %f = %f", price, place, fee, price, fee, price + fee);
+//		printf("ì œí’ˆ ê°€ê²©: %d \nì¥ì†Œ: %c \nì¥ì†Œ ë°°ì†¡ë¹„: (ê¸°ë³¸ ë°°ì†¡ë¹„ + 3000ì›) %f\nì´ ê°€ê²©: %d + %f = %f", price, place, fee, price, fee, price + fee);
 //		break;
 //	case'B':
 //		if (price < 50000) {
 //			fee = 0;
-//			printf("Á¦Ç° °¡°İ: %d \nÀå¼Ò: %c \nÀå¼Ò ¹è¼Ûºñ: (±âº» ¹è¼Ûºñ + 3000¿ø) %f\nÃÑ °¡°İ: %d + %f = %f", price, place, fee, price, fee, price + fee);
+//			printf("ì œí’ˆ ê°€ê²©: %d \nì¥ì†Œ: %c \nì¥ì†Œ ë°°ì†¡ë¹„: (ê¸°ë³¸ ë°°ì†¡ë¹„ + 3000ì›) %f\nì´ ê°€ê²©: %d + %f = %f", price, place, fee, price, fee, price + fee);
 //		}
 //		else {
-//			printf("Á¦Ç° °¡°İ: %d \nÀå¼Ò: %c \nÀå¼Ò ¹è¼Ûºñ: (±âº» ¹è¼Ûºñ + 3000¿ø) %f\nÃÑ °¡°İ: %d + %f = %f", price, place, fee, price, fee, price + fee);
+//			printf("ì œí’ˆ ê°€ê²©: %d \nì¥ì†Œ: %c \nì¥ì†Œ ë°°ì†¡ë¹„: (ê¸°ë³¸ ë°°ì†¡ë¹„ + 3000ì›) %f\nì´ ê°€ê²©: %d + %f = %f", price, place, fee, price, fee, price + fee);
 //		}
 //		break;
 //	case'C':
 //		if (price < 50000) {
 //			fee = 0;
-//			printf("Á¦Ç° °¡°İ: %d \nÀå¼Ò: %c \nÀå¼Ò ¹è¼Ûºñ: (±âº» ¹è¼Ûºñ + 3000¿ø) %f\nÃÑ °¡°İ: %d + %f = %f", price, place, fee, price, fee, price + fee);
+//			printf("ì œí’ˆ ê°€ê²©: %d \nì¥ì†Œ: %c \nì¥ì†Œ ë°°ì†¡ë¹„: (ê¸°ë³¸ ë°°ì†¡ë¹„ + 3000ì›) %f\nì´ ê°€ê²©: %d + %f = %f", price, place, fee, price, fee, price + fee);
 //		}
 //		else if (50000 <= price && price <= 100000) {
-//			printf("Á¦Ç° °¡°İ: %d \nÀå¼Ò: %c \nÀå¼Ò ¹è¼Ûºñ: (±âº» ¹è¼Ûºñ + 3000¿ø) %f\nÃÑ °¡°İ: %d + %f = %f", price, place, fee, price, fee, price + fee);
+//			printf("ì œí’ˆ ê°€ê²©: %d \nì¥ì†Œ: %c \nì¥ì†Œ ë°°ì†¡ë¹„: (ê¸°ë³¸ ë°°ì†¡ë¹„ + 3000ì›) %f\nì´ ê°€ê²©: %d + %f = %f", price, place, fee, price, fee, price + fee);
 //		}
 //		else {
 //			fee = 1000;
-//			printf("Á¦Ç° °¡°İ: %d \nÀå¼Ò: %c \nÀå¼Ò ¹è¼Ûºñ: (±âº» ¹è¼Ûºñ + 3000¿ø) %f\nÃÑ °¡°İ: %d + %f = %f", price, place, fee, price, fee, price + fee);
+//			printf("ì œí’ˆ ê°€ê²©: %d \nì¥ì†Œ: %c \nì¥ì†Œ ë°°ì†¡ë¹„: (ê¸°ë³¸ ë°°ì†¡ë¹„ + 3000ì›) %f\nì´ ê°€ê²©: %d + %f = %f", price, place, fee, price, fee, price + fee);
 //		}
 //		break;
 //	case'D':
 //		if (price < 10000) {
 //			fee = 0;
-//			printf("Á¦Ç° °¡°İ: %d \nÀå¼Ò: %c \nÀå¼Ò ¹è¼Ûºñ: (±âº» ¹è¼Ûºñ + 3000¿ø) %f\nÃÑ °¡°İ: %d + %f = %f", price, place, fee, price, fee, price + fee);
+//			printf("ì œí’ˆ ê°€ê²©: %d \nì¥ì†Œ: %c \nì¥ì†Œ ë°°ì†¡ë¹„: (ê¸°ë³¸ ë°°ì†¡ë¹„ + 3000ì›) %f\nì´ ê°€ê²©: %d + %f = %f", price, place, fee, price, fee, price + fee);
 //		}
 //		else {
 //			fee = 1000;
-//			printf("Á¦Ç° °¡°İ: %d \nÀå¼Ò: %c \nÀå¼Ò ¹è¼Ûºñ: (±âº» ¹è¼Ûºñ + 3000¿ø) %f\nÃÑ °¡°İ: %d + %f = %f", price, place, fee, price, fee, price + fee);
+//			printf("ì œí’ˆ ê°€ê²©: %d \nì¥ì†Œ: %c \nì¥ì†Œ ë°°ì†¡ë¹„: (ê¸°ë³¸ ë°°ì†¡ë¹„ + 3000ì›) %f\nì´ ê°€ê²©: %d + %f = %f", price, place, fee, price, fee, price + fee);
 //		}
 //		break;
 //	default:
-//		printf("Á¦Ç° °¡°İ: %d \nÀå¼Ò: %c \nÀå¼Ò ¹è¼Ûºñ: (±âº» ¹è¼Ûºñ + 3000¿ø) %f\nÃÑ °¡°İ: %d + %f = %f", price, place, fee, price, fee, price + fee);
+//		printf("ì œí’ˆ ê°€ê²©: %d \nì¥ì†Œ: %c \nì¥ì†Œ ë°°ì†¡ë¹„: (ê¸°ë³¸ ë°°ì†¡ë¹„ + 3000ì›) %f\nì´ ê°€ê²©: %d + %f = %f", price, place, fee, price, fee, price + fee);
 //	}
 //	
 //	return 0;

@@ -2,10 +2,10 @@
 /*
 int main() {
 	int a, b, c, val;
-	printf("Å°º¸µå·Î Á¤¼ö°ª 3°³¸¦ ÀÔ·ÂÇÏ½Ã¿À(±¸ºÐÀÚ´Â ÄÞ¸¶ »ç¿ë). : ");
+	printf("í‚¤ë³´ë“œë¡œ ì •ìˆ˜ê°’ 3ê°œë¥¼ ìž…ë ¥í•˜ì‹œì˜¤(êµ¬ë¶„ìžëŠ” ì½¤ë§ˆ ì‚¬ìš©). : ");
 	scanf_s("%d, %d, %d", &a, &b, &c);
 	val = (b <= a) ? ((c <= a) ? a : c) : ((c <= b) ? b : c);
-	printf("Å°º¸µå·Î ÀÔ·ÂÇÑ Á¤¼ö°ª 3°³´Â %d, %d, %d\n", a, b, c);
-	printf("±×Áß¿¡¼­ ÃÖ´ñ°ªÀº %d", val);
+	printf("í‚¤ë³´ë“œë¡œ ìž…ë ¥í•œ ì •ìˆ˜ê°’ 3ê°œëŠ” %d, %d, %d\n", a, b, c);
+	printf("ê·¸ì¤‘ì—ì„œ ìµœëŒ“ê°’ì€ %d", val);
 	return 0;
 }*/

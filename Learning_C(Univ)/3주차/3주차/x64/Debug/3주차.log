@@ -1,8 +1,0 @@
-﻿  과제2.c
-  과제3.c
-C:\Users\user\Documents\GitHub\Learning-C\Learning_C(Univ)\3주차\과제3.c(11,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
-C:\Users\user\Documents\GitHub\Learning-C\Learning_C(Univ)\3주차\과제3.c(11,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int *'
-C:\Users\user\Documents\GitHub\Learning-C\Learning_C(Univ)\3주차\과제3.c(12,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
-C:\Users\user\Documents\GitHub\Learning-C\Learning_C(Univ)\3주차\과제3.c(12,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int *'
-  Generating Code...
-  3주차.vcxproj -> C:\Users\user\Documents\GitHub\Learning-C\Learning_C(Univ)\3주차\x64\Debug\3주차.exe

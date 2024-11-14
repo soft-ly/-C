@@ -18,7 +18,7 @@
 //	person3 = calc_pos(sum3);
 //	int answer;
 //	answer = bigger_number(person1, person2, person3);
-//	printf("3¸íÀÇ °ªÀº %d, %d, %dÀÌ¸ç,\n°è»êµÈ °á°ú °¡Àå ³ôÀº °ªÀº %d", person1, person2, person3, answer);
+//	printf("3ëª…ì˜ ê°’ì€ %d, %d, %dì´ë©°,\nê³„ì‚°ëœ ê²°ê³¼ ê°€ì¥ ë†’ì€ ê°’ì€ %d", person1, person2, person3, answer);
 //}
 //
 //int pick_number(void) {

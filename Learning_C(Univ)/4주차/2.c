@@ -3,43 +3,43 @@
 //int main() {
 //	int var1, var2;
 //	
-//	printf("Á¡¼ö ÀÔ·Â : ");
+//	printf("ì ìˆ˜ ì…ë ¥ : ");
 //	scanf_s("%d", &var1);
 //
 //	if (0 <= var1 && var1 <= 100) {
 //		var2 = var1 / 5;
 //		switch (var2) {
 //		case 0: case 1: case 2: case 3: case 4: case 5: case 6: case 7: case 8: case 9: case 10: case 11:
-//			printf("ÀÔ·ÂÇÑ Á¡¼ö : %d\nµî±Ş : F", var1);
+//			printf("ì…ë ¥í•œ ì ìˆ˜ : %d\në“±ê¸‰ : F", var1);
 //			break;
 //		case 12:
-//			printf("ÀÔ·ÂÇÑ Á¡¼ö : %d\nµî±Ş : D0", var1);
+//			printf("ì…ë ¥í•œ ì ìˆ˜ : %d\në“±ê¸‰ : D0", var1);
 //			break;
 //		case 13:
-//			printf("ÀÔ·ÂÇÑ Á¡¼ö : %d\nµî±Ş : D+", var1);
+//			printf("ì…ë ¥í•œ ì ìˆ˜ : %d\në“±ê¸‰ : D+", var1);
 //			break;
 //		case 14:
-//			printf("ÀÔ·ÂÇÑ Á¡¼ö : %d\nµî±Ş : C0", var1);
+//			printf("ì…ë ¥í•œ ì ìˆ˜ : %d\në“±ê¸‰ : C0", var1);
 //			break;
 //		case 15:
-//			printf("ÀÔ·ÂÇÑ Á¡¼ö : %d\nµî±Ş : C+", var1);
+//			printf("ì…ë ¥í•œ ì ìˆ˜ : %d\në“±ê¸‰ : C+", var1);
 //			break;
 //		case 16:
-//			printf("ÀÔ·ÂÇÑ Á¡¼ö : %d\nµî±Ş : B0", var1);
+//			printf("ì…ë ¥í•œ ì ìˆ˜ : %d\në“±ê¸‰ : B0", var1);
 //			break;
 //		case 17:
-//			printf("ÀÔ·ÂÇÑ Á¡¼ö : %d\nµî±Ş : B+", var1);
+//			printf("ì…ë ¥í•œ ì ìˆ˜ : %d\në“±ê¸‰ : B+", var1);
 //			break;
 //		case 18:
-//			printf("ÀÔ·ÂÇÑ Á¡¼ö : %d\nµî±Ş : A0", var1);
+//			printf("ì…ë ¥í•œ ì ìˆ˜ : %d\në“±ê¸‰ : A0", var1);
 //			break;
 //		case 19:
-//			printf("ÀÔ·ÂÇÑ Á¡¼ö : %d\nµî±Ş : A+", var1);
+//			printf("ì…ë ¥í•œ ì ìˆ˜ : %d\në“±ê¸‰ : A+", var1);
 //			break;
 //		}
 //	}
 //	else {
-//		printf("ÀÔ·ÂÇÑ Á¡¼ö %d´Â(Àº) Çã¿ë ±¸°£ÀÌ ¾Æ´Õ´Ï´Ù.\nÇÁ·Î±×·¥À» ´Ù½Ã ½ÇÇàÇÏ¼¼¿ä.", var1);
+//		printf("ì…ë ¥í•œ ì ìˆ˜ %dëŠ”(ì€) í—ˆìš© êµ¬ê°„ì´ ì•„ë‹™ë‹ˆë‹¤.\ní”„ë¡œê·¸ë¨ì„ ë‹¤ì‹œ ì‹¤í–‰í•˜ì„¸ìš”.", var1);
 //	}
 //	return 0;
 //}

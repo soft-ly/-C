@@ -13,13 +13,13 @@
 //		}
 //		if (IsPerfect(i) == 1) {
 //			perfectprime++;
-//			printf("%d : ¿ÏÀü¼ö, ¾à¼ö´Â ", i);
+//			printf("%d : ì™„ì „ìˆ˜, ì•½ìˆ˜ëŠ” ", i);
 //			printDivisor(i);
 //		}
 //	}
 //
-//	printf("1¿¡¼­ 100»çÀÌÀÇ ¼Ò¼öÀÇ ¼ö´Â %d \n", primenumber);
-//	printf("1¿¡¼­ 100»çÀÌÀÇ ¿ÏÀü¼öÀÇ ¼ö´Â %d \n", perfectprime);
+//	printf("1ì—ì„œ 100ì‚¬ì´ì˜ ì†Œìˆ˜ì˜ ìˆ˜ëŠ” %d \n", primenumber);
+//	printf("1ì—ì„œ 100ì‚¬ì´ì˜ ì™„ì „ìˆ˜ì˜ ìˆ˜ëŠ” %d \n", perfectprime);
 //}
 //
 //int isPrime(int n) {

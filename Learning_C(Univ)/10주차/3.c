@@ -2,17 +2,17 @@
 #define nine 9
 
 int main(void) {
-	printf("\u25a0 2Â÷¿ø ¹è¿­·Î 2~9´Ü±îÁö Ãâ·ÂÇÏ´Â ÇÁ·Î±×·¥\n");
+	printf("\u25a0 2ì°¨ì› ë°°ì—´ë¡œ 2~9ë‹¨ê¹Œì§€ ì¶œë ¥í•˜ëŠ” í”„ë¡œê·¸ë¨\n");
 	int val[8][9];
 
 	for (int i = 0; i < 8; i++) {
-		printf("<%d´Ü Ãâ·Â>\n", i + 2);
+		printf("<%dë‹¨ ì¶œë ¥>\n", i + 2);
 		for (int j = 0; j < 9; j++) {
 			val[i][j] = (i + 2) * (j + 1);
 			printf("%d X %d = %02d\n", i + 2, j + 1, val[i][j]);
 		}
 		printf("\n");
 	}
-	printf("2 ~ 9´Ü±îÁö Ãâ·Â ¿Ï·á!");
+	printf("2 ~ 9ë‹¨ê¹Œì§€ ì¶œë ¥ ì™„ë£Œ!");
 	return 0;
 }

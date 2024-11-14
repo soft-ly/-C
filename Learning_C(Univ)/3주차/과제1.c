@@ -3,10 +3,10 @@
 int main() {
 	int *poval;
 	int a, val;
-	printf("Å°º¸µå·Î Á¤¼ö 1°³¸¦ ÀÔ·ÂÇÏ½Ã¿À. : ");
+	printf("í‚¤ë³´ë“œë¡œ ì •ìˆ˜ 1ê°œë¥¼ ìž…ë ¥í•˜ì‹œì˜¤. : ");
 	scanf_s("%d", &a);
 	poval = &a;
 	val = *poval;
-	printf("Å°º¸µå·Î ÀÔ·ÂÇÑ °ªÀÌ ÀúÀåµÈ ÁÖ¼Ò(16Áø¼ö Ç¥±â) : %X\n", poval);
-	printf("Æ÷ÀÎÅÍ º¯¼ö *poval¿¡ ÀúÀåµÈ °ª(10Áø¼ö Ç¥±â) : %d", val);
+	printf("í‚¤ë³´ë“œë¡œ ìž…ë ¥í•œ ê°’ì´ ì €ìž¥ëœ ì£¼ì†Œ(16ì§„ìˆ˜ í‘œê¸°) : %X\n", poval);
+	printf("í¬ì¸í„° ë³€ìˆ˜ *povalì— ì €ìž¥ëœ ê°’(10ì§„ìˆ˜ í‘œê¸°) : %d", val);
 }*/

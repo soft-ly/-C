@@ -3,11 +3,11 @@
 int main() {
 	int a, b;
 	int * address, * poval;
-	printf("Á¤¼ö 2°³¸¦ ÀÔ·ÂÇÏ½Ã¿À(±¸ºĞÀÚ´Â ÄŞ¸¶ »ç¿ë). :");
+	printf("ì •ìˆ˜ 2ê°œë¥¼ ì…ë ¥í•˜ì‹œì˜¤(êµ¬ë¶„ìëŠ” ì½¤ë§ˆ ì‚¬ìš©). :");
 	scanf_s("%d, %d", &a, &b);
 	address = &a;
 	poval = &b;
-	printf("ÀÔ·ÂÇÑ Á¤¼ö 2°³´Â %d, %d\n", a, b);
-	printf("3ÀÇ ÁÖ¼Ò°ª : %d\n", address);
-	printf("5ÀÇ ÁÖ¼Ò°ª : %d", poval);
+	printf("ì…ë ¥í•œ ì •ìˆ˜ 2ê°œëŠ” %d, %d\n", a, b);
+	printf("3ì˜ ì£¼ì†Œê°’ : %d\n", address);
+	printf("5ì˜ ì£¼ì†Œê°’ : %d", poval);
 }*/

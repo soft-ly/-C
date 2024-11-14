@@ -3,11 +3,11 @@
 int main() {
 	signed min_su, input, result;
 	min_su = -32768;
-	printf("shortÇü À¯È¿¹üÀ§: -32,768 ~ 32767\n");
-	printf("min_su = -32,768ÀÏ ¶§ \n");
-	printf("»¬¼À ¿¬»êÀ» ¼öÇàÇÒ Á¤¼ö ÀÔ·Â: ");
+	printf("shortí˜• ìœ íš¨ë²”ìœ„: -32,768 ~ 32767\n");
+	printf("min_su = -32,768ì¼ ë•Œ \n");
+	printf("ëº„ì…ˆ ì—°ì‚°ì„ ìˆ˜í–‰í•  ì •ìˆ˜ ì…ë ¥: ");
 	scanf_s("%hi", &input);
 	result = min_su - input;
-	printf("»¬¼À ¿¬»ê: %hi - %hi = %hi\n", min_su, input, result);
+	printf("ëº„ì…ˆ ì—°ì‚°: %hi - %hi = %hi\n", min_su, input, result);
 	return 0;
 }

@@ -4,13 +4,13 @@ int main() {
 	int num1, num2;
 	float result;
 
-	printf("Á¤¼ö 2°³¸¦ ÀÔ·ÂÇÏ¼¼¿ä. \n");
-	printf("Ã¹¹øÂ° Á¤¼ö num1 = ");
+	printf("ì •ìˆ˜ 2ê°œë¥¼ ì…ë ¥í•˜ì„¸ìš”. \n");
+	printf("ì²«ë²ˆì§¸ ì •ìˆ˜ num1 = ");
 	scanf_s("%d", &num1);
-	printf("µÎ¹øÂ° Á¤¼ö num2 = ");
+	printf("ë‘ë²ˆì§¸ ì •ìˆ˜ num2 = ");
 	scanf_s("%d", &num2);
 
 	result = (float)num1 / num2;
-	printf("³ª´°¼À ¿¬»ê = num1 / num2 = %d / %d = %f\n", num1, num2, result);
+	printf("ë‚˜ëˆ—ì…ˆ ì—°ì‚° = num1 / num2 = %d / %d = %f\n", num1, num2, result);
 	return 0;
 }

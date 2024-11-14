@@ -7,15 +7,15 @@
 
 int main(void) {
 	srand((unsigned)time(NULL));
-	printf("\u25a0 3Â÷¿ø ¹è¿­ ¿ä¼Ò¸¦ ·£´ıÀ¸·Î Ãâ·ÂÇÏ´Â ÇÁ·Î±×·¥\n");
+	printf("\u25a0 3ì°¨ì› ë°°ì—´ ìš”ì†Œë¥¼ ëœë¤ìœ¼ë¡œ ì¶œë ¥í•˜ëŠ” í”„ë¡œê·¸ë¨\n");
 	int list[P][R][C];
 	char answer;
 	do {
 	again:
 		for (int i = 0; i < P; i++) {
-			printf("[%d¸é] Ãâ·Â\n",i+1);
+			printf("[%dë©´] ì¶œë ¥\n",i+1); 
 			for (int j = 0; j < R; j++) {
-				printf("<%dÇà Ãâ·Â> ", j+1);
+				printf("<%dí–‰ ì¶œë ¥> ", j+1);
 				for (int k = 0; k < C; k++) {
 					list[i][j][k] = 1 + rand() % 100;
 					printf("%d ", list[i][j][k]);
@@ -24,18 +24,18 @@ int main(void) {
 			}
 		}
 		printf("\n");
-		printf("ÇÁ·Î±×·¥ ¼öÇà ¿Ï·á!\n");
+		printf("í”„ë¡œê·¸ë¨ ìˆ˜í–‰ ì™„ë£Œ!\n"); 
 	answercorrectly:
-		printf("ÇÁ·Î±×·¥À» ´Ù½Ã ½ÃÀÛÇÏ°Ú½À´Ï±î? (Y / N) : ");
+		printf("í”„ë¡œê·¸ë¨ì„ ë‹¤ì‹œ ì‹œì‘í•˜ê² ìŠµë‹ˆê¹Œ? (Y / N) : ");
 		scanf_s("%c", &answer, sizeof(answer));
 		getchar();
 		if (answer == 'Y' || answer == 'y') goto again;
 		else if (answer == 'N' || answer == 'n') {
-			printf("ÇÁ·Î±×·¥ Á¾·á");
+			printf("í”„ë¡œê·¸ë¨ ì¢…ë£Œ");
 			return 0;
 		}
 		else {
-			printf("¾ËÆÄºª ÀÔ·Â ¿À·ù!\n´Ù½Ã ÀÔ·ÂÇÏ¼¼¿ä.\n"); goto answercorrectly;
+			printf("ì•ŒíŒŒë²³ ì…ë ¥ ì˜¤ë¥˜!\në‹¤ì‹œ ì…ë ¥í•˜ì„¸ìš”.\n"); goto answercorrectly;
 		}
 	} while (1);
 }

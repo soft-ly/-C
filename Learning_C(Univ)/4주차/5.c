@@ -4,9 +4,9 @@
 //	int current_time_h, current_time_m;
 //	int time;
 //
-//	printf("Ãâ¹ß ½Ã°£ (½Ã ºĞ) : ");
+//	printf("ì¶œë°œ ì‹œê°„ (ì‹œ ë¶„) : ");
 //	scanf_s("%d %d", &current_time_h, &current_time_m);
-//	printf("µî±³¿¡ °É¸° ½Ã°£(ºĞ) : ");
+//	printf("ë“±êµì— ê±¸ë¦° ì‹œê°„(ë¶„) : ");
 //	scanf_s("%d", &time);
 //	int added_hour;
 //	added_hour = time / 60;
@@ -19,6 +19,6 @@
 //	}
 //	current_time_h += added_hour;
 //
-//	printf("ÇĞ±³¿¡ µµÂøÇÑ ½Ã°£Àº %d½Ã %dºĞÀÔ´Ï´Ù.", current_time_h, current_time_m);
+//	printf("í•™êµì— ë„ì°©í•œ ì‹œê°„ì€ %dì‹œ %dë¶„ì…ë‹ˆë‹¤.", current_time_h, current_time_m);
 //	return 0;
 //}
